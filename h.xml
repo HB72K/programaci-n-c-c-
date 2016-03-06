@@ -13,6 +13,7 @@
     <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1" />
     <project path="hardware/qcom/camera" name="desteam/platforme_hardware_qcom_camera" revision="master" />
      <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1"/>
-
-
+     <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/8916" revision="cm-12.1-caf-8916" />
+     <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/8916" revision="cm-12.1-caf-8916" />
+     <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/8916" revision="cm-12.1-caf-8916" />
 </manifest>
