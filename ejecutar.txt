@@ -1,0 +1,11 @@
+Abrir la terminal 
+Ctrl+Alt+t
+creamos la carpeta c++
+accedemos a la carpeta creada
+mkdir c++
+cd c++
+gedit **abrimos el editor de textos gedit y procedemos a escribir nuestro codigo y guardamos*
+ procedemos a compilar
+ g++ hola.cpp -o hola *** el nombre es como querramos llamarlo-**
+ ejecutamos el codigo
+ ./hola ** listo ya temenos el holamundo :v **
